@@ -1,0 +1,21 @@
+
+.top5 { margin-top:5px; }
+.top7 { margin-top:7px; }
+.top10 { margin-top:10px; }
+.top15 { margin-top:15px; }
+.top17 { margin-top:17px; }
+.top30 { margin-top:30px; }
+.left30{ margin-left: 30px;}
+
+.margin10{ margin-top:10px; margin-bottom: 10px;}
+.margin17{ margin-top:17px; margin-bottom: 17px;}
+
+.intro{
+   overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 8; /* number of lines to show */
+}
+
+.nav_offset{margin-top:60px;}
