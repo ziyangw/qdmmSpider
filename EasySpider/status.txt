@@ -1,0 +1,2 @@
+shutdown: http://all.qdmm.com/MMWeb/BookStore.aspx?ChannelId=41&SubCategoryId=-1&Tag=all&Size=-1&Action=-1&OrderId=6&P=all&PageIndex=6&update=-1&Vip=-1
+last_finished: 16-08-24 17:07
